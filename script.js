@@ -36,10 +36,11 @@ async function loadMessage() {
         console.error('Error al cargar el mensaje:', error);
         if (elements.letterText) {
             elements.letterText.innerHTML = `
-                <p>Mi Amor,</p>
-                <p>En este día tan especial, quiero que sepas que cada momento a tu lado es un regalo que atesoro en mi corazón.</p>
-                <p>Te amo con todo mi ser.</p>
-                <p>Con todo mi amor ❤️</p>
+                <p>Feliz san Valentín a la distancia Mi Amorcitooou!! a miles de kilómetros y a mi me sigue encantando la misma sonrisa, la tuya ❤️</p>
+                <p>Amor sé que es difícil la distancia y me es difícil hacer una carta pero esta vez quería intentar algo un poco especial para mi amorcito ❤️ no quería mandarte un simple mensaje de Wpp como venimos haciendo, eso no me gusta mucho, es muy simple y lo hace cualquiera, yo no quiero ser así común como el resto. Sé que este 14 de febrero el espacio físico nos juega en contra, pero si algo vengo aprendiendo en estos 2 años a distancia es que mi mente siempre estas vos. ❤️</p>
+                <p>A veces me quedo pensando en cómo vienen pasando casi seis años de relación. Los de afuera lo ven fácil, pero nosotros sabemos lo que venimos crecido, cambiado y como venimos sobrevivido a la rutina y a los kilómetros que nos separan. Y aunque a veces sintamos que el camino se vuelve pesado o aburrido, quiero que sepas algo: sigo siendo el fan número uno de esa sonrisa preciosa que tenes, de esos ojos que me enternecen y de ese cuerpo que me emboba (y si, si no digo algo de esto no soy yo jajajja fui leve por ahora asique shh).</p>
+                <p>La verdad es que podría llenar líneas infinitas hablando solo de los detalles que me tienen loco por vos. Tu risa sigue siendo mi sonido favorito en el mundo, tiene esa capacidad de resetear mi día sin que te des cuenta yo por dentro feliz de escucharte feliz. Tu sonrisa, tus ojos... me pierdo en ellos incluso por videollamada.❤️‍🔥</p>
+                <p>Gracias por ser mi compañera, gracias por estar conmigo en los días fáciles como en los dificiles. En un mes y piquito cumplimos 6 años!!! ❤️❤️❤️❤️ vamos a seguir dispuestos a seguir descubriéndonos e intentando sacarnos de cualquier rutina que nos deprima, porque una vida con vos nunca podría ser aburrida si me permitís seguir viendo esa sonrisa preciosa tuya de cerca. ❤️❤️❤️</p>
             `;
         }
     }
